@@ -32,5 +32,6 @@ python3 data_analysis.py</p>
 <li>
   File Handling (try...except FileNotFoundError):  The load_data function in the provided script uses a try...except block to check if the data files exist in the correct location. If a file is not found, the except block catches the error and prints a helpful message to the user instead of letting the program crash. This is a crucial step for a shared repository where team members might have different file paths.
 </li>
-  <ul>General Exceptions (try...except Exception): The main function wraps the entire data processing and visualization logic in try...except blocks. If something unexpected happens during a complex step—for instance, a data format is incorrect or a calculation fails—the Exception block will catch it and prevent the entire script from failing. It will then print an error message that helps with debugging.</ul>
+<li>
+General Exceptions (try...except Exception): The main function wraps the entire data processing and visualization logic in try...except blocks. If something unexpected happens during a complex step—for instance, a data format is incorrect or a calculation fails—the Exception block will catch it and prevent the entire script from failing. It will then print an error message that helps with debugging.
 </li>
