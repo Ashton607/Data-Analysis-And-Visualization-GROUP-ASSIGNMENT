@@ -8,7 +8,7 @@
 <h2>Execution Instructions</h2>
 <h3>Step 1: Clone the Repository</h3>
 <p>Open your terminal or command prompt and clone this repository to your local machine:</p>
-<p>git clone [https://github.com/Ashton607/Data-Analysis-And-Visualization-GROUP-ASSIGNMENT.git](https://github.com/Ashton607/Data-Analysis-And-Visualization-GROUP-ASSIGNMENT.git)
+<p>git clone [https://github.com/Ashton607/Data-Analysis-And-Visualization-GROUP-ASSIGNMENT.git]
 cd Data-Analysis-And-Visualization-GROUP-ASSIGNMENT</p>
 <h3>Step 2: Set Up the Environment</h3>
 <p>This project requires Python and several libraries. We recommend using a virtual environment to manage dependencies.</p>
